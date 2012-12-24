@@ -12,7 +12,7 @@
 		<dependency>
 			<groupId>spark</groupId>
 			<artifactId>spark</artifactId>
-			<version>0.9.9.3-SNAPSHOT</version>
+			<version>0.9.9.4-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>org.slf4j</groupId>
